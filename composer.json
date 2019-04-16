@@ -1,0 +1,23 @@
+{
+  "name" : "clicissimo/base-bundle",
+  "description" : "Base bundle for clicissimo applications",
+  "type" : "symfony-bundle",
+  "license" : [
+    "MIT"
+  ],
+  "require" : {
+  },
+  "autoload" : {
+    "psr-0" : {
+      "Clicissimo\\BaseBundle" : ""
+    }
+  },
+  "target-dir" : "Clicissimo/BaseBundle",
+  "repositories" : [{
+  }],
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "dev-master"
+    }
+  }
+}
