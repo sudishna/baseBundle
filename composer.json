@@ -8,16 +8,14 @@
   "require" : {
   },
   "autoload" : {
-    "psr-0" : {
-      "Clicissimo\\BaseBundle" : ""
+    "psr-4" : {
+      "Clicissimo\\BaseBundle\\" : ""
     }
   },
   "target-dir" : "Clicissimo/BaseBundle",
-  "repositories" : [{
-  }],
   "extra" : {
     "branch-alias" : {
-      "dev-master" : "dev-master"
+      "dev-master" : "master"
     }
   }
 }
