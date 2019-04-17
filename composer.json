@@ -12,10 +12,9 @@
       "Clicissimo\\BaseBundle\\" : ""
     }
   },
-  "target-dir" : "Clicissimo/BaseBundle",
   "extra" : {
     "branch-alias" : {
-      "dev-master" : "master"
+      "dev-master" : "1.1.x-dev"
     }
   }
 }
